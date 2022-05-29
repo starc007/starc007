@@ -8,9 +8,9 @@ It's three years since we first met and can't imagine my life without you(JavaSc
 
 🌱 I’m currently learning to remove software chaos, one at a time.
 
-👯 I’m looking to collaborate on open source projects using JavaScript.
+👯 I’m looking to collaborate on open source projects using JavaScript & Solidity.
 
-🥅 2022 Goals: Contribute more to Open Source projects, improve full stack skills.
+🥅 2022 Goals: Build more projects in Web3 Space.
 
 🍎 Beginner mindset (open to learning)
 
