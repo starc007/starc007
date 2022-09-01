@@ -2,15 +2,15 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <br />
-It's three years since we first met and can't imagine my life without you(JavaScript). Meeting You is the best thing in my life. Everyday I fall in love with You over again and everyday You make me happy. I love You JavaScript🖤    
+Full stack Developer!!
 <br />
 <br />
 
 🌱 I’m currently learning to remove software chaos, one at a time.
 
-👯 I’m looking to collaborate on open source projects using JavaScript & Solidity.
+👯 I’m looking to collaborate on Hackathons Projects
 
-🥅 2022 Goals: Build more projects in Web3 Space.
+🥅 2022 Goals: Build more projects in Web3 Space and contribute in Open Source
 
 🍎 Beginner mindset (open to learning)
 
