@@ -10,7 +10,7 @@
     <a href="https://linkedin.com/in/starc007" target="_blank">Linkedin</a>
   </p>
 
-Goal is to build more open source projects in web2 and web3. Open for Collaborations or new opportunities. Reach out to me via twitter or Linkedin.
+Goal is to build more open source projects in web2 and web3. Open for Collaborations. Reach out to me via twitter or Linkedin.
     
 ## ➤ Some tools that I work on
 - React 
