@@ -3,7 +3,7 @@
   Full Stack Dev | Building & Simplifying Things for Web
     <br />
     <br />
-    <a href="https://jutsu.tech" target="_blank">Portfolio Website</a>
+    <a href="https://saura3h.xyz" target="_blank">Portfolio Website</a>
     ·
     <a href="https://twitter.com/saurra3h" target="_blank">Twitter</a>
     ·
