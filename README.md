@@ -13,14 +13,19 @@
 Goal is to build more open source projects in web2 and web3. Open for Collaborations. Reach out to me via twitter or Linkedin.
     
 ## ➤ Some tools that I work on
-- React 
+- React
+- Next.js
 - Svelte
+- Astro
 - Typescript
-- Javacript
+- Javascript
 - TailwindCss
 - Solidity
+- Node.js
+- Chrome Extension
 
 ## ➤ Currently Building
+- [Sanchar](https://sanchar.xyz) - Skill and Network monetisation platform
 - [Readmi](https://readmi.xyz) - Open source github readme builder for your projects
 - [Web-wallet-connect](https://github.com/starc007/web3-wallet-connect) - Open source wallet connection library for your Dapps
 
