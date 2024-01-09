@@ -25,9 +25,9 @@ Goal is to build more open source projects in web2 and web3. Open for Collaborat
 - Chrome Extension
 
 ## ➤ Currently Building
-- [Sanchar](https://sanchar.xyz) - A new age professional Network
+- [Piqr](https://piqr.in) - A new age professional Network
 - [Readmi](https://readmi.xyz) - Open source github readme builder for your projects
-- [Web-wallet-connect](https://github.com/starc007/web3-wallet-connect) - Open source wallet connection library for your Dapps
+- [Web-wallet-connect](https://github.com/starc007/web3-wallet-connect) - Open source wallet connection library for your Dapps - Deprecated
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=starc007&show_icons=true&locale=en" alt="starc007" /></p>
     
