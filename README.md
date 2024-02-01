@@ -24,9 +24,10 @@ Goal is to build more open source projects in web2 and web3. Open for Collaborat
 - Node.js
 - Chrome Extension
 
-## ➤ Currently Building
-- [Piqr](https://piqr.in) - A new age professional Network
+## ➤ Something I've built
+- [Piqr](https://piqr.in) - A new age professional Network used by 3K+ users
 - [Readmi](https://readmi.xyz) - Open source github readme builder for your projects
+- [UI-Components](https://ui-comp69.vercel.app) - Fully Customizable & fully Typed UI Components using TailwindCSS + Typescript.
 - [Web-wallet-connect](https://github.com/starc007/web3-wallet-connect) - Open source wallet connection library for your Dapps
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=starc007&show_icons=true&locale=en" alt="starc007" /></p>
