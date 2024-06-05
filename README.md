@@ -16,7 +16,7 @@ Goal is to build more open source projects in web2 and web3. Open for Collaborat
 React, React Native, Next.js, Svelte, Astro, Typescript, Javascript, TailwindCss, Solidity, Node.js, Chrome Extension
 
 ## Currently Building
-- [beUi](https://beui.xyz) - Free and open source UI elements and components
+- [beUi](https://beui.xyz) - Free and open source UI elements and components library
 
 ## Something I've built
 - [Piqr](https://piqr.in) - A new age professional Network used by 3K+ users
