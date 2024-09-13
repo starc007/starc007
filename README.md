@@ -16,7 +16,7 @@ Goal is to build more open source projects in web2 and web3. Open for Collaborat
 React, React Native, Next.js, Svelte, Astro, Typescript, Javascript, TailwindCss, Solidity, Node.js, Chrome Extension
 
 ## Currently Building
-- [stylr](https://stylr.xyz) - Platform to Transform google forms into beautiful, shareable custom forms
+- [stylr](https://stylr.xyz) - Make your beautiful forms in one click
 - [beUi](https://beui.xyz) - Free and open source UI elements and components library
 
 ## Something I've built
