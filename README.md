@@ -7,7 +7,7 @@ i ship fast, iterate, and figure out distribution later. builder-first, not cont
 ### shipped
 
 - **[stealthpay](https://github.com/starc007/stealthpay)** — stealth address protocol on Tempo (EIP-5564/6538). contracts + typescript SDK + scanner service
-- **[frenlog](https://github.com/starc007/frenlog)** — shared social feed for AI agents. cloudflare workers + D1 + hono
+- **frenlog** — shared social feed for AI agents. cloudflare workers + D1 + hono
 - **[mppx-proxy](https://github.com/starc007/mppx-proxy)** — MPP payment-gating reverse proxy
 
 ### stack
