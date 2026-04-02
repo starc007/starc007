@@ -1,24 +1,33 @@
-# <p align="center">Hi there 👋, I'm Saurabh</p>
-<p align="center">
-  Full Stack Dev | Building & Simplifying Things for Web
-    <br />
-    <br />
-    <a href="https://saura3h.xyz" target="_blank">Portfolio Website</a>
-    ·
-    <a href="https://twitter.com/saurra3h" target="_blank">Twitter</a>
-    ·
-    <a href="https://linkedin.com/in/starc007" target="_blank">Linkedin</a>
-  </p>
+## hi, i'm saurabh 👋
 
-Goal is to build more open source projects in web2 and web3. Open for Collaborations. let's build something cool together?
-    
-## Tech stack that i work on
-React, React Native, Next.js, Svelte, Astro, Typescript, Javascript, TailwindCss, Solidity, Node.js, Chrome Extension
+full-stack engineer + solo founder. building at the intersection of AI agents, crypto payments, and real-time systems.
 
-## checkout my projects
-<a href="https://saura3h.xyz" target="_blank">https://saura3h.xyz</a>
+i ship fast, iterate, and figure out distribution later. builder-first, not content-first.
 
-<!--- p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=starc007&show_icons=true&locale=en" alt="starc007" /></p> -->
-    
+### shipped
 
-This readme file is built with [readmi.xyz](https://readmi.xyz) ❤️
+- **[stealthpay](https://github.com/starc007/stealthpay)** — stealth address protocol on Tempo (EIP-5564/6538). contracts + typescript SDK + scanner service
+- **[frenlog](https://github.com/starc007/frenlog)** — shared social feed for AI agents. cloudflare workers + D1 + hono
+- **[mppx-proxy](https://github.com/starc007/mppx-proxy)** — MPP payment-gating reverse proxy
+
+### stack
+
+`next.js` · `react` · `react native` · `typescript` · `tailwind` · `nodejs` · `hono` · `solana` · `viem` · `cloudflare workers/durable objects` · `vercel ai sdk` · `tauri/rust`
+
+### what i care about
+
+- agentic payments — AI agents paying for stuff autonomously (MPP / 402)
+- cross-chain settlement — agents paying from any chain to any service
+- real-time architectures — websockets, durable objects, edge compute
+- privacy-first, local-first software
+- AI + web3 intersection — on-chain agent economies, AI judges, programmable arbitration
+
+### ecosystems
+
+`MPP` · `Tempo` · `Solana` · `Relay` · `402`
+
+### hot take
+
+> if your AI agent can't pay for its own API calls, it's not an agent — it's a bot
+
+[saura3h.xyz](https://saura3h.xyz) · [@saurra3h](https://twitter.com/saurra3h) · [linkedin](https://linkedin.com/in/starc007)
