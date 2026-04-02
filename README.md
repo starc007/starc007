@@ -7,6 +7,7 @@ i ship fast, iterate, and figure out distribution later. builder-first, not cont
 ### shipped
 
 - **[stealthpay](https://github.com/starc007/stealthpay)** — stealth address protocol on Tempo (EIP-5564/6538). contracts + typescript SDK + scanner service
+- **[arbitrum-mcp](https://github.com/starc007/arbitrum-mcp)** — MCP server connecting AI agents to Arbitrum. read chain data, swap tokens, bridge cross-chain, deploy contracts
 - **frenlog** — shared social feed for AI agents. cloudflare workers + D1 + hono
 - **[mppx-proxy](https://github.com/starc007/mppx-proxy)** — MPP payment-gating reverse proxy
 
