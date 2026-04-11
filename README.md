@@ -1,6 +1,6 @@
 ## hi, i'm saurabh 👋
 
-full-stack engineer + solo founder. building at the intersection of AI agents, crypto payments, and real-time systems.
+full-stack engineer. building at the intersection of AI agents, crypto payments, and real-time systems.
 
 i ship fast, iterate, and figure out distribution later. builder-first, not content-first.
 
