@@ -6,6 +6,7 @@ i ship fast, iterate, and figure out distribution later. builder-first, not cont
 
 ### recently shipped
 
+- **[MPP Playground](https://mpp-playground.vercel.app)** — A devtools-style playground for the Tempo and MPP
 - **[stealthpay](https://github.com/starc007/stealthpay)** — stealth address protocol on Tempo (EIP-5564/6538). contracts + typescript SDK + scanner service
 - **[draft](https://usedraft.app)** — local-first notes app for devs and creators. offline-capable, fast full-text search, native desktop via tauri
 - **[crev](https://github.com/starc007/crev)** — AI code review CLI in rust. local (ollama) + cloud LLMs, git hooks, pattern tracking, github actions
