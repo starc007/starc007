@@ -16,7 +16,7 @@ i ship fast, iterate, and figure out distribution later. builder-first, not cont
 
 ### stack
 
-`next.js` · `react` · `react native` · `typescript` · `tailwind` · `nodejs` · `hono` · `solana` · `viem` · `cloudflare workers/durable objects` · `vercel ai sdk` · `tauri/rust`
+`next.js` · `react` · `react native` · `typescript` · `tailwind` · `nodejs` · `hono` · `solana` · `viem` · `cloudflare` · `tauri/rust`
 
 ### what i care about
 
