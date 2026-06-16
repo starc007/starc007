@@ -6,6 +6,7 @@ i ship fast, iterate, and figure out distribution later. builder-first, not cont
 
 ### recently shipped
 
+- **[Beui](https://beui.saura3h.xyz)** — Component libray of motion components for React/Nextjs
 - **[Relay CLI](https://github.com/starc007/relay-cli)** — CLI for the Relay cross-chain bridge/swap protocol. Bridge and swap assets across 85+ chains from your terminal.
 - **[Hydra Uniswap Agent](https://github.com/starc007/hydra-agent)** — Autonomous Uniswap v4 LP management — a multi-agent system on Cloudflare.
 - **[MPP Playground](https://mpp-playground.vercel.app)** — A devtools-style playground for the Tempo and MPP
