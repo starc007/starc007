@@ -6,7 +6,8 @@ i ship fast, iterate, and figure out distribution later. builder-first, not cont
 
 ### recently shipped
 
-- **[beUI](https://beui.dev)** — motion component library for React / Next.js, distributed via the shadcn registry ([repo](https://github.com/starc007/ui-components))
+- **[beUI Pro](https://pro.beui.dev)** — premium animated blocks and complete landing-page templates for React, with full source access.
+- **[beUI](https://beui.dev)** — open-source motion component library for React / Next.js, distributed via the shadcn registry ([repo](https://github.com/starc007/ui-components))
 - **[Relay CLI](https://github.com/starc007/relay-cli)** — CLI for the Relay cross-chain bridge/swap protocol. Bridge and swap assets across 85+ chains from your terminal.
 - **[Hydra Uniswap Agent](https://github.com/starc007/hydra-agent)** — Autonomous Uniswap v4 LP management — a multi-agent system on Cloudflare.
 - **[MPP Playground](https://mpp-playground.vercel.app)** — A devtools-style playground for the Tempo and MPP
